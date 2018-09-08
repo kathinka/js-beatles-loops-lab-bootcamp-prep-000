@@ -1,5 +1,4 @@
-//const musicians = ["John Lennon", "Paul McCartney", "George Harrison", "Ringo Starr"];
-//const instruments = ["Guitar", "Bass Guitar", "Lead Guitar", "Drums"];
+
 var emptyArray = [];
 
 function theBeatlesPlay(musicians, instruments){
@@ -27,4 +26,11 @@ function johnLennonFacts(facts){
   }
   return factsArray;
 }
-
+ function iLoveTheBeatles(number){
+   var newArray=[];
+   do whilenumber++){
+     newArray.push("I love the Beatles!");
+     
+   }
+   
+ }
