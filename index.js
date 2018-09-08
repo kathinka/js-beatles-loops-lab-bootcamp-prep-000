@@ -32,4 +32,4 @@ function johnLennonFacts(){
   }
   return factsArray;
 }
-johnLennonFacts();
+
