@@ -9,7 +9,6 @@ function theBeatlesPlay(){
   emptyArray.push(musicians[i] + " plays " + instruments[i]);
   console.log(musicians[i] + " plays " + instruments[i]);
   }
-   
+ return emptyArray;  
 }
 
-return emptyArray;
