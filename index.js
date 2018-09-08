@@ -32,5 +32,6 @@ function johnLennonFacts(facts){
      newArray.push("I love the Beatles!");
    }
    while (number<15)
+   number = number+1;
    
  }
