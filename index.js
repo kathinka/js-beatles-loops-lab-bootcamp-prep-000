@@ -20,12 +20,14 @@ const facts = [  "He was the last Beatle to learn to drive",
   "He hated the sound of his own voice" ];
 
 function johnLennonFacts(facts){
+  var factsArray = [];
   
   while (facts.length>0)
   {
-    console.log(facts)
+    console.log(facts[i]+"!!!" );
+    factsArray.push(facts[i]+"!!!" );
     
   }
-  
+  return factsArray;
 }
 
