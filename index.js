@@ -31,6 +31,6 @@ function johnLennonFacts(facts){
    do {
      newArray.push("I love the Beatles!");
    }
-   while 
+   while (number<15)
    
  }
