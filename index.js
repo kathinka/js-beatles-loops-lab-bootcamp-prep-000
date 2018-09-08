@@ -14,20 +14,22 @@ function theBeatlesPlay(){
 
 //johnLennonFacts 
 
-const facts = [  "He was the last Beatle to learn to drive",
+var facts = [  "He was the last Beatle to learn to drive",
   "He was never a vegetarian",
   "He was a choir boy and boy scout",
   "He hated the sound of his own voice" ];
 
-function johnLennonFacts(facts){
+function johnLennonFacts(){
   var factsArray = [];
-  
-  while (var i=0; l= facts.length; i<l; i++)
+  var fL = facts.length;
+  var i = 0;
+  while (fL>i)
   {
+    
     console.log(facts[i]+"!!!" );
     factsArray.push(facts[i]+"!!!" );
-    
+    i++;
   }
   return factsArray;
 }
-
+johnLennonFacts();
