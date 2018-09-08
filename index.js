@@ -12,5 +12,12 @@ function theBeatlesPlay(){
  return emptyArray;  
 }
 
+//johnLennonFacts 
 
+const facts = [ ];
+
+function johnLennonFacts(facts){
+  
+  
+}
 
