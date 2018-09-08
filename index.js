@@ -22,7 +22,7 @@ const facts = [  "He was the last Beatle to learn to drive",
 function johnLennonFacts(facts){
   var factsArray = [];
   
-  while (facts.length>0)
+  while (var i=0; l= facts.length; i<l; i++)
   {
     console.log(facts[i]+"!!!" );
     factsArray.push(facts[i]+"!!!" );
